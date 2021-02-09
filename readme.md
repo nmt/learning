@@ -17,6 +17,10 @@ Someone linked their website ("Go to example-website.com!") but people had repor
 ### How does `async/await` work?
 - [JavaScript Visualized: Promises & Async/Await](https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke)
 
+### Does ['sleep sort'](https://www.facebook.com/ooteensmemes/posts/2793735160889541) work in practice?
+![Screenshot of code that uses setTimeout() to print numbers in an array. The output lists the numbers in increasing order.](img/sleep-sort.png)
+- Loek Janssen: "This does not guarantee the correct sorted result. In javascript runtimes the setTimeout callbacks are added to the event loop and executed if it takes precedence to other items waiting to be executed. Hypothetically, the setTimeout callbacks can be displayed to stdout in a different order."
+
 ### How does Docker work and what are some use cases?
 - [Docker Demystified](https://dev.to/frosnerd/docker-demystified-27kl)
 
