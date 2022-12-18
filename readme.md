@@ -39,6 +39,7 @@ Someone linked their website ("Go to example-website.com!") but people had repor
 - [Why Facebook's api starts with a for loop](https://dev.to/antogarand/why-facebooks-api-starts-with-a-for-loop-1eob)
 - [29 Must Read Books For Programmers](https://dev.to/bosepchuk/29-must-read-programming-books-2n45)
 - [Understanding This, Bind, Call, and Apply in JavaScript](https://dev.to/digitalocean/understanding-this-bind-call-and-apply-in-javascript-dla)
+- [What is CORS?](https://dev.to/jpomykala/what-is-cors-11kf)
 
 ## Resources
 - [How to write a kickass README](https://dev.to/scottydocs/how-to-write-a-kickass-readme-5af9)
